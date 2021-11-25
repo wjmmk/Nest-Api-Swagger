@@ -1,9 +1,9 @@
 import { INestApplication } from '@nestjs/common';
 import { Test, TestingModule } from '@nestjs/testing';
-import { UserDTO } from 'src/core/users/user.dto';
+import { UserDTO } from 'src/core/user/user.dto';
 import * as request from 'supertest';
 import { AppModule } from '../src/app.module';
-import { UsersModule } from 'src/core/users/users.module';
+import { UsersModule } from 'src/core/user/user.module';
 
 
 describe('UsersController (e2e)', () => {
