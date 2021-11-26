@@ -60,7 +60,7 @@ $ npm run test:cov
 
 ## Carga de Imagen de las Pruebas de Codigo
 
-![](public/Coders.jpg)
+![](assets/Nest-Swagger.jpg)
 
 ## Carga de Imagen de las Pruebas de Codigo II
 
